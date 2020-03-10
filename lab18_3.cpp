@@ -9,6 +9,10 @@ using namespace std;
 
 struct student{
 	//Define struct student with four member (name ,id , gender, gpa);
+	string name;
+	int id;
+	string gender;
+	float gpa;
 };
 
 struct course{
